@@ -2,7 +2,7 @@
 
 // OLD!!!!!
 // const countriesAPI = "https://restcountries.com/v2/all";
-const countriesAPI = "https://restcountries.com/v3.1/independent?status=true";
+const countriesAPI = "https://restcountries.com/v3.1/all?fields=name";
 
 let totalCountries = 0;
 
